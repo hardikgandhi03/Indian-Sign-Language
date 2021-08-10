@@ -1,5 +1,4 @@
 # Indian-Sign-Language
-Developing with Deep learning
 
 This project aims to solve the issues or problems faced by deaf and dumb people while communicating with others with help of deep learning.
 
